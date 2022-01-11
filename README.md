@@ -1,7 +1,7 @@
 # Senegram
 
 ## Getting started
-1. Clone project `git clone https://github.com/lahatmb18/Latech.gitL`
+1. Clone project `git clone https://github.com/lahatmb18/Latech.git`
 2. Go to the folder `cd senegram`
 3. Install composer `composer install`
 4. Install npm package `npm install`
